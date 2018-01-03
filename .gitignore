@@ -1,0 +1,35 @@
+#############
+# wordpress # 
+#############
+db.php
+debug.log
+tasks/
+plugins/
+themes/twentyfifteen/
+themes/twentysixteen/
+themes/twentyseventeen/
+dploy.yaml
+index.php
+
+######################
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+.TemporaryItems
+.VolumeIcon.icns
+
+
+
+#############
+# git files #
+#############
+
+
